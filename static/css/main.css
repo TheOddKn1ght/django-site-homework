@@ -43,3 +43,16 @@ main > .container {
 .footer-tags{
   float:right;
 }
+
+
+
+
+@media (max-width: 1199px) {
+  .question-image {
+    width: 150px;
+  }
+
+  .question-footer {
+    padding-left: 40px;
+  }
+}
